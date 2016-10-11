@@ -1,0 +1,22 @@
+#login .name{
+	padding: 0px 25px;
+	position: absolute;
+	left: 100px;
+	top:80px;
+}
+
+ #login  .password {
+	padding: 0px 25px;
+	position: absolute;
+	left: 100px;
+	top:182px;
+}
+
+ #login  .login{
+	width: 470px;
+	position: absolute;
+	left: 100px;
+	bottom:60px;
+	background: #FFD500;
+	border:none;
+}

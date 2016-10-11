@@ -1,0 +1,27 @@
+#register .name {
+	padding: 0px 25px;
+	position: absolute;
+	left: 100px;
+	top:45px;
+}
+#register .password{
+	padding: 0px 25px;
+	position: absolute;
+	left: 100px;
+	top:130px;
+}
+	
+#register .login {
+	width: 470px;
+	position: absolute;
+	left: 100px;
+	bottom:20px;
+	background: #FFD500;
+	border:none;
+}
+#register .select{
+	width: 472px;
+	position: absolute;
+	top: 215px;
+	left: 100px;
+}
