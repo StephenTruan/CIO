@@ -34,7 +34,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		</div>
 	</div>
 	<h1 class='head'>在线信息收集与调查系统</h1>
-	<div id="admin"><a id="a" href="AdminCLServlet?method=toAdmin">管理员</a></div>
 	<div id="explain">
 		<p class="title">主题：${topic }</p>
 		<hr>

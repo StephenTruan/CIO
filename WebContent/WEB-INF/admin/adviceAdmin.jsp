@@ -43,9 +43,9 @@
 
 	<div id="title">
 		<ul>
-			<li><a href="AdminCLServlet?method=adviceAdmin&sector=1">${name1 }部门提交的数据&nbsp;&nbsp;||&nbsp;&nbsp;</a></li>
-			<li><a href="AdminCLServlet?method=adviceAdmin&sector=2">${name2 }部门提交的数据&nbsp;&nbsp;||&nbsp;&nbsp;</a></li>
-			<li><a href="AdminCLServlet?method=adviceAdmin&sector=3">${name3 }部门提交的数据</a></li>
+			<li>部门：<a href="AdminCLServlet?method=adviceAdmin&sector=1">${name1 }</a>筛选出的意见&nbsp;&nbsp;||&nbsp;&nbsp;</li>
+			<li>部门：<a href="AdminCLServlet?method=adviceAdmin&sector=2">${name2 }</a>筛选出的意见&nbsp;&nbsp;||&nbsp;&nbsp;</li>
+			<li>部门：<a href="AdminCLServlet?method=adviceAdmin&sector=3">${name3 }</a>筛选出的意见</li>
 		</ul>
 	</div>
 
